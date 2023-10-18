@@ -73,3 +73,6 @@ Tools: Jira
 #### 1.2	  Functionalities in scope
 -	All the features of Time module which were defined in business requirements need to be tested: functional testing, 
 -	The below user story was created in Jira and describes functional specifications of the Time module
+
+#### User Story:
+!
