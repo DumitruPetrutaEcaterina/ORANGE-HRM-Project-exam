@@ -48,7 +48,7 @@
 
 3.8	Test completion report
 
-### 	Introduction
+### 1	Introduction
 
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
 
@@ -82,3 +82,52 @@ Tools: Jira
 #### 1.3 Functionalities and tests out of scope
 -	No QA support for mobile application developed. Only web application will be tested. 
 -	Automation testing is beyond scope.
+
+### 2	Test process
+#### 2.1	  Test planning
+#### Roles and responsibilities
+<h2>Test Plan</h2>
+
+|Product Owner|Orange HRM Company|
+|---|---|
+|Software Developer|Diana Popescu|
+|Tester |Dumitru Petruta Ecaterina|
+
+#### Entry criteria:
+-	Business specifications are defined 
+-	Roles needed for the project are allocated 
+-	Initial project risks were detected and mitigated 
+
+#### Exit criteria:
+-	All test cases have been executed 
+-	The unresolved bugs/defects have medium priority 
+-	No detected major risks remained un-mitigated 
+-	All resolved bugs have been retested and approved by the testers
+-	Regression testing have been ran and no major bugs detected  
+-	All business requirements have been covered by test cases 
+-	All business requirements have been met 
+
+#### Risks:
+-	Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad,
+-	Product risks: Validation constraints on the fields might be too restrictive to the end user 
+
+#### 2.2 Test analysis 
+-	Analyze the business requirements to make sure that we have all the details to create the test conditions 
+-	Write test conditions that will be tested in out test process 
+
+#### 2.3 Test design
+-	Functional test cases will be created in Jira 
+
+#### 2.4 Test implementation
+
+Verify if the following elements are ready before test execution:
+-	Test environment is up and running:
+-	https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+-	Access to test environment is given:
+   username Admin, password: admin 123
+-	Cycle summary was created 1.01, Ad hoc
+-	Test cases were added to the cycle summary
+
+#### 2.5 Test execution
+-	Test cases are executed on the created cycle summary 
+
