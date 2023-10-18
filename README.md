@@ -159,3 +159,11 @@ Various periodic reports were generated to reflect the current status of the tes
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
+#### 3.2	  Test conditions
+
+![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditions%201.png)
+
+![ Conditions 2 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditions%202.png)
+
+#### 3.3	  Test cases
+
