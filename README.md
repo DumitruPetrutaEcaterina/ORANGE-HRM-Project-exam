@@ -187,7 +187,9 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 ![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
+
 [ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+
 
 
 #### 3.4	  Daily test summary report 
@@ -198,7 +200,9 @@ The plan identifies the items to be tested, the features to be tested, the type 
 #### 3.5	  Traceability matrix
 
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
+
 [ Matrix pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+
 
 [ Gantt Chart pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
 
@@ -207,6 +211,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 The test cases results:
 
 -pdf exported from Jira with all test cases and results
+
 
 [ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
@@ -226,6 +231,7 @@ The test cases results:
 The test completion report generated from Jira:
 
 -pdf exported from Jira with test completion report
+
 
 [ Test Report pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
 
