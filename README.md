@@ -138,3 +138,24 @@ Verify if the following elements are ready before test execution:
 -	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
   
 #### Bug:
+
+![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
+![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
+
+
+#### 2.6 Test closure
+-	All exit criteria were met as mentioned in the Test Planning section (2.1)
+-	The traceability matrix was generated to demonstrate the business requirements coverage
+-	Test execution chart was generated, the final report shows a number of 1 failed test cases of a total 28
+
+
+#### 2.7 Test monitoring and control
+Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
+
+![ Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
+
+### 3	Test deliverables
+
+#### 3.1	  Test plan
+The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
+
