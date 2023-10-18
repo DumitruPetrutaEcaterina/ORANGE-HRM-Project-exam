@@ -238,9 +238,9 @@ The test completion report generated from Jira:
 
 #### 3.9	  Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
-<h3>Test Schedule</h3>
+<h4>Test Schedule</h4>
 
-|Task|Deta|Team member|
+|Task|Data|Team member|
 |---|---|---|
 |Run functional Test Cases|17.10.2023|Dumitru Petruta Ecaterina|
 
