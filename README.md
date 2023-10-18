@@ -133,7 +133,7 @@ Verify if the following elements are ready before test execution:
 
 #### Test Execution:
 
-![ Test Execution!](https://https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
+![ Test Execution !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
 -	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
   
