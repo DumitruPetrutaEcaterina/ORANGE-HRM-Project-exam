@@ -48,3 +48,28 @@
 
 3.8	Test completion report
 
+### 	Introduction
+
+This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
+
+#### 1.1	  Project Objective
+The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+
+Application under test:
+https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+Username : Admin
+Password : admin123
+
+the focus will be only on Time module – Time Sheets
+
+Application documentation:
+https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
+page 80
+
+Tools: Jira
+
+
+#### 1.2	  Functionalities in scope
+-	All the features of Time module which were defined in business requirements need to be tested: functional testing, 
+-	The below user story was created in Jira and describes functional specifications of the Time module
