@@ -75,4 +75,4 @@ Tools: Jira
 -	The below user story was created in Jira and describes functional specifications of the Time module
 
 #### User Story:
-!
+![ User Story 1
