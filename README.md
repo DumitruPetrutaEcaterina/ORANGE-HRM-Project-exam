@@ -144,6 +144,7 @@ Verify if the following elements are ready before test execution:
 
 [ Bug pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
+
 #### 2.6 Test closure
 -	All exit criteria were met as mentioned in the Test Planning section (2.1)
 -	The traceability matrix was generated to demonstrate the business requirements coverage
@@ -172,11 +173,13 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 [ Story 3 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
+
 #### 3.2	  Test conditions
 
 ![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditions%201.png)
 
 ![ Conditions 2 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditions%202.png)
+
 
 #### 3.3	  Test cases
 
@@ -186,21 +189,27 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 [ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
+
 #### 3.4	  Daily test summary report 
 
 ![ Summary report !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
+
 
 #### 3.5	  Traceability matrix
 
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
 [ Matrix pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+
 [ Gantt Chart pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
+
 
 #### 3.6	  Test case results
 The test cases results:
 
 -pdf exported from Jira with all test cases and results
+
 [ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+
 
 #### 3.7	  Bugs report
 
@@ -212,10 +221,14 @@ The test cases results:
 
 [ Bug pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
+
 #### 3.8	  Test completion report
 The test completion report generated from Jira:
 
 -pdf exported from Jira with test completion report
+
+[ Test Report pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
+
 
 #### 3.9	  Schedule
 A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
