@@ -182,6 +182,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 #### 3.6	  Test case results
 The test cases results:
+
 -pdf exported from Jira with all test cases and results
 
 #### 3.7	  Bugs report
@@ -189,10 +190,12 @@ The test cases results:
 ![ Bug a !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
 ![ Bug b !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
 
+
 ![ Bug c !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
 
 #### 3.8	  Test completion report
 The test completion report generated from Jira:
+
 -pdf exported from Jira with test completion report
 
 #### 3.9	  Schedule
