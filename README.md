@@ -167,3 +167,5 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 #### 3.3	  Test cases
 
+![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+
