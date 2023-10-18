@@ -167,5 +167,33 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 #### 3.3	  Test cases
 
+-pdf exported from Jira with all test cases 
+
 ![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
+#### 3.4	  Daily test summary report 
+
+![ Summary report !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
+
+#### 3.5	  Traceability matrix
+
+![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
+
+
+#### 3.6	  Test case results
+The test cases results:
+-pdf exported from Jira with all test cases and results
+
+#### 3.7	  Bugs report
+
+![ Bug a !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
+![ Bug b !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
+
+![ Bug c !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
+
+#### 3.8	  Test completion report
+The test completion report generated from Jira:
+-pdf exported from Jira with test completion report
+
+#### 3.9	  Schedule
+A test schedule includes the testing steps or tasks, the target start and end date and responsibilities. 
