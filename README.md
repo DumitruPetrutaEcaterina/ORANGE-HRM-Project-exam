@@ -142,7 +142,7 @@ Verify if the following elements are ready before test execution:
 ![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
 ![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
 
-![ Bug pdf !]  (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+[ Bug pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 #### 2.6 Test closure
 -	All exit criteria were met as mentioned in the Test Planning section (2.1)
@@ -160,9 +160,9 @@ Various periodic reports were generated to reflect the current status of the tes
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
-![ Project Test Plan pdf !]  (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%20ORANGE%20HRM.pdf)
+[ Project Test Plan pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%20ORANGE%20HRM.pdf)
 
-![ Epic pdf !]  (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
+[ Epic pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
 #### 3.2	  Test conditions
 
