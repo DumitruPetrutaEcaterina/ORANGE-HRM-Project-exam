@@ -72,9 +72,13 @@ Tools: Jira
 
 #### 1.2	  Functionalities in scope
 -	All the features of Time module which were defined in business requirements need to be tested: functional testing, 
--	The below user story was created in Jira and describes functional specifications of the Time module
+-	The below user story was created in Jira and describes functional specifications of the Time module.
 
 #### User Story:
 ![ User Story 1!](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
 
-![ User Story 2!]()
+![ User Story 2!](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201b.png)
+
+#### 1.3 Functionalities and tests out of scope
+-	No QA support for mobile application developed. Only web application will be tested. 
+-	Automation testing is beyond scope.
