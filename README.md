@@ -164,6 +164,12 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 [ Epic pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
+[ Story 1 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
+
+[ Story 2 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
+
+[ Story 3 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
+
 #### 3.2	  Test conditions
 
 ![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditions%201.png)
@@ -175,6 +181,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 -pdf exported from Jira with all test cases 
 
 ![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+[ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 #### 3.4	  Daily test summary report 
 
@@ -183,7 +190,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 #### 3.5	  Traceability matrix
 
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
-
+[ Matrix pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
 #### 3.6	  Test case results
 The test cases results:
