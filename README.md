@@ -155,6 +155,8 @@ Various periodic reports were generated to reflect the current status of the tes
 
 ![ Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
+[ Time Report pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
+
 ### 3	Test deliverables
 
 #### 3.1	  Test plan
@@ -181,6 +183,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 -pdf exported from Jira with all test cases 
 
 ![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+
 [ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 #### 3.4	  Daily test summary report 
