@@ -131,3 +131,5 @@ Verify if the following elements are ready before test execution:
 #### 2.5 Test execution
 -	Test cases are executed on the created cycle summary 
 
+#### Test Execution:
+![ Test Execution!](https://https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
