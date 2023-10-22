@@ -242,7 +242,9 @@ A test schedule includes the testing steps or tasks, the target start and end da
 
 |Task|Data|Team member|
 |---|---|---|
-|Run functional Test Cases|17.10.2023|Dumitru Petruta Ecaterina|
+|Setup Project in Jira|13.10.2023|Dumitru Petruta Ecaterina|
+|Run functional Test Cases|15.10.2023|Dumitru Petruta Ecaterina|
+|Transfer Project in GitHub|18.10.2023|Dumitru Petruta Ecaterina|
 
 
 
