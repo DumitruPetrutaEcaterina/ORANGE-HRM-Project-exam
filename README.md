@@ -87,6 +87,9 @@ Tools: Jira
 -	No QA support for mobile application developed. Only web application will be tested. 
 -	Automation testing is beyond scope.
 
+
+
+.
 ### 2	Test process
 #### 2.1	  Test planning
 #### Roles and responsibilities
