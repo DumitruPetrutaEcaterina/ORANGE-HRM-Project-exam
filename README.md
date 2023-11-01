@@ -258,5 +258,12 @@ A test schedule includes the testing steps or tasks, the target start and end da
 |Run functional Test Cases|15.10.2023|Dumitru Petruta Ecaterina|
 |Transfer Project in GitHub|18.10.2023|Dumitru Petruta Ecaterina|
 
+### General conclusions
+- Putting the acquired knowledge into practice; testing the ORANGE HRM application: Time Module – Time Sheet, page 80,
+through the JIRA application and the Zephyr plugin.
+- Application documentation:
+  https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
+![image](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/assets/132688919/b478f5eb-5317-4e23-b9a2-4b83623dcb55)
+
 
 
