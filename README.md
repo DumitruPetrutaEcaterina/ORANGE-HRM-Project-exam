@@ -51,7 +51,7 @@
 
 
 
-.................................
+.........................................................................................................................................
 ### 1	Introduction
 
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
