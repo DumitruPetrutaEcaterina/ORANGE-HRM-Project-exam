@@ -125,7 +125,7 @@ User Story [ User Story 1]                            (https://github.com/Dumitr
 #### 2.3 Test design
 -  Test cases will be created in Jira,
 -	Black Box test cases will be created in Jira, like boundary value testing test cases.
-   
+   Example [ Boundary Value Test Case pdf ]                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-21.pdf)
 
 #### 2.4 Test implementation
 
