@@ -79,7 +79,7 @@ Tools: Jira
 -	The below user story was created in Jira and describes functional specifications of the Time module.
 
 #### User Story:
-![ User Story 1!](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
+User Story [ User Story 1]                            (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
 
 ![ User Story 2!](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201b.png)
 
