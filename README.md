@@ -197,7 +197,7 @@ Story 3 [ Story 3 pdf ]                                                    (http
 
 -pdf exported from Jira with all test cases 
 
-![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+Example [ Test Cases 1 ]                                                   (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
 
 Test Cases [ Test Cases pdf ]                                              (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
