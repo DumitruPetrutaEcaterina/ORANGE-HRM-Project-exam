@@ -164,7 +164,7 @@ Various periodic reports were generated to reflect the current status of the tes
 
 ![ Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
-[ Time Report pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
+Time Report [ Time Report pdf ]                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
 
 
