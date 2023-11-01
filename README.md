@@ -89,6 +89,7 @@ Tools: Jira
 
 
 
+
 .
 ### 2	Test process
 #### 2.1	  Test planning
@@ -165,6 +166,10 @@ Various periodic reports were generated to reflect the current status of the tes
 
 [ Time Report pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
+
+
+
+.
 ### 3	Test deliverables
 
 #### 3.1	  Test plan
