@@ -210,7 +210,7 @@ Example [ Summary report ]                                                 (http
 
 #### 3.5	  Traceability matrix
 
-![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
+![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
 
 Traceability Matrix [ Traceability Matrix pdf ]                             (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
 
