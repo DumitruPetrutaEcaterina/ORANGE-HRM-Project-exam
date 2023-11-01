@@ -57,17 +57,17 @@
 This test plan document describes the strategies, process, workflows and methodologies used to plan, organize, execute and manage testing process for OrangeHRM.
 
 #### 1.1	  Project Objective
-The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
+- The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
-Application under test:
+- Application under test:
 https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 
 Username : Admin
 Password : admin123
 
-the focus will be only on Time module – Time Sheets
+- The focus will be only on Time module – Time Sheets
 
-Application documentation:
+- Application documentation:
 https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
 page 80
 
