@@ -123,7 +123,9 @@ User Story [ User Story 1]                            (https://github.com/Dumitr
 -	Write test conditions that will be tested in out test process 
 
 #### 2.3 Test design
--	Functional test cases will be created in Jira 
+-  Test cases will be created in Jira,
+-	Black Box test cases will be created in Jira, like boundary value testing test cases.
+   
 
 #### 2.4 Test implementation
 
