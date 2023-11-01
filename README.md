@@ -213,7 +213,6 @@ Example [ Summary report ]                                                 (http
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
 
 Traceability Matrix [ Traceability Matrix pdf ]                             (https://https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/assets/132688919/55e1abf5-f732-4c6d-90a9-d4d13e9ba7ba)
-)
 
 Matrix [ Matrix pdf ]                                                       (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
