@@ -229,7 +229,7 @@ Test Cases [ Test Cases pdf ]                                                 (h
 
 #### 3.7	  Bugs report
 
-![ Bug c !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
+Bug Report [ Bug c ]                                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
 
 Bug [ Bug pdf ]                                                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
