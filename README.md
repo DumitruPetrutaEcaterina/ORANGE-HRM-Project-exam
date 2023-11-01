@@ -175,15 +175,15 @@ Time Report [ Time Report pdf ]                                           (https
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
-[ Project Test Plan pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%20ORANGE%20HRM.pdf)
+Project Test Plan [ Project Test Plan pdf ]                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%20ORANGE%20HRM.pdf)
 
-[ Epic pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
+Epic [ Epic pdf ]                                                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
-[ Story 1 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
+Story 1 [ Story 1 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
 
-[ Story 2 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
+Story 2 [ Story 2 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
 
-[ Story 3 pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
+Story 3 [ Story 3 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
 
 #### 3.2	  Test conditions
