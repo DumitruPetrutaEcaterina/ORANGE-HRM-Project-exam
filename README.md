@@ -150,7 +150,7 @@ Verify if the following elements are ready before test execution:
 ![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
 ![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
 
-[ Bug pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+![ Bug pdf !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
 #### 2.6 Test closure
