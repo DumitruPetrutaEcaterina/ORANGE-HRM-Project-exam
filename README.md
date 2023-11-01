@@ -149,9 +149,6 @@ Test Execution [ Test Execution ]                          (https://github.com/D
   
 #### Bug:
 
-![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20a.png)
-![ Bug !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Bug%20b.png)
-
 Bug [ Bug pdf ]                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
