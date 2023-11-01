@@ -264,6 +264,11 @@ through the JIRA application and the Zephyr plugin.
 - Application documentation:
   https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
 ![image](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/assets/132688919/b478f5eb-5317-4e23-b9a2-4b83623dcb55)
+- Application:
+  https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+![image](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/assets/132688919/4d2c27e0-5e6c-4864-9c2e-abe7fb0e8d00)
+Username: Admin, Password: admin 123
+![image](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/assets/132688919/03e5dc96-8a61-4851-b8ac-1ffd39c48380)
 
 
 
