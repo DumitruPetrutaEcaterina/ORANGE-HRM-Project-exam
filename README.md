@@ -206,7 +206,7 @@ Test Cases [ Test Cases pdf ]                                              (http
 
 #### 3.4	  Daily test summary report 
 
-![ Summary report !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
+Example [ Summary report ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
 
 
 #### 3.5	  Traceability matrix
