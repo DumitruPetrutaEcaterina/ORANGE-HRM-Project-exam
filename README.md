@@ -200,7 +200,7 @@ Story 3 [ Story 3 pdf ]                                                    (http
 ![ Test Cases 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
 
-[ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+Test Cases [ Test Cases pdf ]                                              (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 
@@ -213,10 +213,10 @@ Story 3 [ Story 3 pdf ]                                                    (http
 
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Matrix.png)
 
-[ Matrix pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+Matrix [ Matrix pdf ]                                                       (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
 
-[ Gantt Chart pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
+Gant Chart [ Gantt Chart pdf ]                                               (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
 
 
 #### 3.6	  Test case results
@@ -225,7 +225,7 @@ The test cases results:
 -pdf exported from Jira with all test cases and results
 
 
-[ Test Cases pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+Test Cases [ Test Cases pdf ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 #### 3.7	  Bugs report
@@ -236,7 +236,7 @@ The test cases results:
 
 ![ Bug c !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
 
-[ Bug pdf ](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+Bug [ Bug pdf ]                                                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
 #### 3.8	  Test completion report
