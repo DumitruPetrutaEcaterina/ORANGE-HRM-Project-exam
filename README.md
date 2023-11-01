@@ -111,13 +111,12 @@ User Story [ User Story 1]                            (https://github.com/Dumitr
 -	The unresolved bugs/defects have medium priority 
 -	No detected major risks remained un-mitigated 
 -	All resolved bugs have been retested and approved by the testers
--	Regression testing have been ran and no major bugs detected  
 -	All business requirements have been covered by test cases 
 -	All business requirements have been met 
 
 #### Risks:
 -	Project risks: lack of experience of QA team, lack of tools, short deadline for Jira and Zephyr Squad,
--	Product risks: Validation constraints on the fields might be too restrictive to the end user 
+-	Product risks: the risk of defects occurring due to the complexity of the code
 
 #### 2.2 Test analysis 
 -	Analyze the business requirements to make sure that we have all the details to create the test conditions 
