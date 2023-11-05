@@ -174,7 +174,7 @@ Time Report [ Time Report pdf ]                                           (https
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
-Project Test Plan [ Project Test Plan pdf ]                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%20ORANGE%20HRM.pdf)
+Project Test Plan [ Project Test Plan pdf ]                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%202_ORANGE%20HRM.pdf)
 
 Epic [ Epic pdf ]                                                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
