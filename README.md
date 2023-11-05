@@ -187,7 +187,7 @@ Story 3 [ Story 3 pdf ]                                                    (http
 
 #### 3.2	  Test conditions
 
-![ Conditions 1 !](https://)
+![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
 
 
