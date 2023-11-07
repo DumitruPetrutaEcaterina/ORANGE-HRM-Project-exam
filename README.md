@@ -153,7 +153,7 @@ Bug [ Bug pdf ]                (https://github.com/DumitruPetrutaEcaterina/ORANG
 
 
 #### 2.6 Test closure
--	All exit criteria were met as mentioned in the Test Planning section (2.1)
+-	All exit criteria were met as mentioned in the Test Planning section (3.1)
 -	The traceability matrix was generated to demonstrate the business requirements coverage
 -	Test execution chart was generated, the final report shows a number of 1 failed test cases of a total 28
 
