@@ -138,9 +138,7 @@ Verify if the following elements are ready before test execution:
 -	Test cases were added to the cycle summary
 
 #### 2.5 Test execution
--	Test cases are executed on the created cycle summary:
-  
- [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
+-	Test cases are executed on the created cycle summary: [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
  -	Also, Story's were executed during this phase: 
 
@@ -168,10 +166,7 @@ Various periodic reports were generated to reflect the current status of the tes
 
 [Test Monitoring Progress](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
-A time report file was exported as pdf, from Jira as attached:
-
- [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
-
+A time report file was exported as pdf, from Jira as attached: [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
 
 
