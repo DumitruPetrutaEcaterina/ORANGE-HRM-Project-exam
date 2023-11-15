@@ -272,7 +272,7 @@ through the JIRA application and the Zephyr plugin.
   [Administrative User Guide](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf)
 
 - Application:
-  https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  [Orange HRM Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 Username: Admin, Password: admin 123
   
 
