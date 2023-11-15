@@ -166,6 +166,8 @@ Various periodic reports were generated to reflect the current status of the tes
 
 ![Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
+A time report file was exported as pdf, from Jira as attached:
+
  [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
 
@@ -184,10 +186,13 @@ Project Test Plan [Project Test Plan pdf](https://github.com/DumitruPetrutaEcate
 
 #### 3.2	  Test conditions
 
+The following 28 tests were created based on the test conditions:
 
-![Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
-The following 28 tests were created based on the test conditions.
+
+[Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
+
+
 
 #### 3.3	  Test cases
 
