@@ -186,9 +186,7 @@ The plan identifies the items to be tested, the features to be tested, the type 
 
 #### 3.2	  Test conditions
 
-The following 28 tests were created based on the test conditions:
-
-[Tests pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Issue%20List%20(Jira).pdf)
+The following 28 tests were created based on the test conditions: [Tests pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Issue%20List%20(Jira).pdf)
 
 Attached the test conditions: [Conditions 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
