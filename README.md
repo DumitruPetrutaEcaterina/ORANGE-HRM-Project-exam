@@ -190,7 +190,7 @@ The following 28 tests were created based on the test conditions:
 
 [Tests pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Issue%20List%20(Jira).pdf)
 
-[Conditions 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
+Attached the test conditions: [Conditions 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
 
 
