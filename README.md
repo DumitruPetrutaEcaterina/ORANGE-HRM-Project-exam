@@ -154,7 +154,7 @@ Epic [ Epic pdf ]                                                          (http
 Test Execution [ Test Execution ]                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
 -	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
-#### Bug:
+
 Bug [ Bug pdf ]                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
@@ -187,13 +187,14 @@ Project Test Plan [ Project Test Plan pdf ]                                (http
 
 #### 3.2	  Test conditions
 
+
 ![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
-
+The following 28 tests were created based on the test conditions.
 
 #### 3.3	  Test cases
 
--pdf exported from Jira with all test cases 
+Test cases were done in the execution phase and exported as pdf, from Jira as attached: 
 
 Example [ Test Cases 1 ]                                                   (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
@@ -204,10 +205,14 @@ Test Cases [ Test Cases pdf ]                                              (http
 
 #### 3.4	  Daily test summary report 
 
+Attached the dayly test report:
+
 Example [ Summary report ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
 
 
 #### 3.5	  Traceability matrix
+
+Below the Traceability matrix attched in the form of jpg and pdf.format:
 
 ![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
 
