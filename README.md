@@ -150,7 +150,7 @@ Epic: [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-e
 
 -  [Story 3 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
--	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
+-	Bug has been created based on the failed test case. The complete bug reports can be found here:
 
  [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
