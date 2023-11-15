@@ -68,7 +68,7 @@ Password : admin123
 - The focus will be only on Time module – Time Sheets
 
 - Application documentation:
-https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
+  [Documentation](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf)
 page 80
 
 Tools: Jira
