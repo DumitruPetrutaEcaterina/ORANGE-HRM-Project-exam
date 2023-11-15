@@ -131,7 +131,7 @@ Example of: [User Story 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM
 
 Verify if the following elements are ready before test execution:
 -	Test environment is up and running:
--	https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  [Orange HRM Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 -	Access to test environment is given:
    username Admin, password: admin 123
 -	Cycle summary was created 1.01, Ad hoc
