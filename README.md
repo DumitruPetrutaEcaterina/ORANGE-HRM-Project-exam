@@ -164,7 +164,7 @@ Epic: [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-e
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
-![Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
+[Test Monitoring Progress](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
 A time report file was exported as pdf, from Jira as attached:
 
