@@ -201,7 +201,6 @@ Test cases were done in the execution phase and exported as pdf, from Jira as at
 Example: [Test Cases 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
 
-[Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 
@@ -209,7 +208,7 @@ Example: [Test Cases 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Pr
 
 Attached the daily test report:
 
-Example [Summary report](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
+Example: [Summary report](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
 
 
 #### 3.5	  Traceability matrix
@@ -218,9 +217,9 @@ Below the Traceability matrix attched in the form of jpg and pdf.format:
 
 ![Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
 
-Traceability Matrix:[Traceability Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
+Traceability Matrix: [Traceability Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
 
-Traceability report was also exported in pdf format:[Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+Traceability report was also exported in pdf format: [Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
 To show the time line a Gantt Chart was done:
 [Gantt Chart pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
