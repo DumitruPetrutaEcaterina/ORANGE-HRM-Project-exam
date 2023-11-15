@@ -236,13 +236,13 @@ All test cases and results were exported from Jira as pdf format:
 
 #### 3.7	  Bugs report
 
-Bug Report [Bug c](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
+Bug Report: [Bug c](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
 
 During testing, a Bug Ticket was done, bound by Story OP-5: Customer added by Admin in Time Module.
 In the pop-up customer window, the number of characters allowed is over maximul limit.
 Severity - Moderate, Priority – Low. 
 
-Bug [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+[Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
 
