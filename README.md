@@ -60,7 +60,7 @@ This test plan document describes the strategies, process, workflows and methodo
 - The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
 - Application under test:
-https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+  [Orange Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 Username : Admin
 Password : admin123
@@ -68,7 +68,7 @@ Password : admin123
 - The focus will be only on Time module – Time Sheets
 
 - Application documentation:
-  [Documentation](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf)
+  [Administrative User Guide](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf)
 page 80
 
 Tools: Jira
