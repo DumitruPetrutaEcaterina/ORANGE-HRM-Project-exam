@@ -179,7 +179,7 @@ A time report file was exported as pdf, from Jira as attached:
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
-Project Test Plan [Project Test Plan pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%202_ORANGE%20HRM.pdf)
+ [Project Test Plan pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%202_ORANGE%20HRM.pdf)
 
 
 
@@ -198,10 +198,10 @@ Attached the test conditions: [Conditions 1](https://github.com/DumitruPetrutaEc
 
 Test cases were done in the execution phase and exported as pdf, from Jira as attached: 
 
-Example [Test Cases 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+Example: [Test Cases 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
 
-Test Cases [Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+[Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 
