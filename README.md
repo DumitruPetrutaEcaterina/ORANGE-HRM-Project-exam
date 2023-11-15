@@ -60,7 +60,7 @@ This test plan document describes the strategies, process, workflows and methodo
 - The scope of the final project for ITF Manual Testing Course is to use all gained knowledge through the course and apply them in practice, using a live application. 
 
 - Application under test:
-  [Orange Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
+  [Orange HRM Demo](https://opensource-demo.orangehrmlive.com/web/index.php/auth/login)
 
 Username : Admin
 Password : admin123
@@ -269,7 +269,8 @@ through the JIRA application and the Zephyr plugin.
 - No major defects and impact on the user.
 - The segment can be launched in real environment by the client.
 - Application documentation:
-  https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf
+  [Administrative User Guide](https://www.orangehrm.com/assets/Files/Complete-Administrative-User-Guide.pdf)
+
 - Application:
   https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
 Username: Admin, Password: admin 123
