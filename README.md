@@ -218,21 +218,21 @@ Below the Traceability matrix attched in the form of jpg and pdf.format:
 
 ![Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
 
-Traceability Matrix [Traceability Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
+Traceability Matrix:[Traceability Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
 
-Matrix [Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+Traceability report was also exported in pdf format:[Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
-
-Gant Chart [Gantt Chart pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
+To show the time line a Gantt Chart was done:
+[Gantt Chart pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
 
 
 #### 3.6	  Test case results
 The test cases results:
 
--pdf exported from Jira with all test cases and results
+All test cases and results were exported from Jira as pdf format:
 
 
-Test Cases [Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+[Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 #### 3.7	  Bugs report
@@ -241,6 +241,8 @@ Bug Report [Bug c](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project
 
 Bug [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
+A Bug Ticket was done bound by Story OP-5: Customer added by Admin in Time Module.
+In the pop-up customer window, the number of characters allowed is over maximul limit.
 Severity - Moderate, Priority – Low. 
 
 
