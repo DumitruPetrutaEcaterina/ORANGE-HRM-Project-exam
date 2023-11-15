@@ -79,7 +79,7 @@ Tools: Jira
 -	The below user story was created in Jira and describes functional specifications of the Time module.
 
 #### User Story:
-Example User Story [User Story 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
+Example of: [User Story 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
 
 
 #### 1.3 Functionalities and tests out of scope
@@ -140,19 +140,19 @@ Verify if the following elements are ready before test execution:
 #### 2.5 Test execution
 -	Test cases are executed on the created cycle summary 
 
-Epic [ Epic pdf ]                                                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
+Epic [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
-- Story 1 [ Story 1 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
+- Story 1 [Story 1 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
 
-- Story 2 [ Story 2 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
+- Story 2 [Story 2 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
 
-- Story 3 [ Story 3 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
+- Story 3 [Story 3 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
-Test Execution [ Test Execution ]                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
+Test Execution [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
 -	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
 
-Bug [ Bug pdf ]                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+Bug [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
 #### 2.6 Test closure
@@ -164,9 +164,9 @@ Bug [ Bug pdf ]                (https://github.com/DumitruPetrutaEcaterina/ORANG
 #### 2.7 Test monitoring and control
 Various periodic reports were generated to reflect the current status of the testing process, in case of major problems control measures could be taken.
 
-![ Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
+![Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
-Time Report [ Time Report pdf ]                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
+Time Report [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
 
 
@@ -177,7 +177,7 @@ Time Report [ Time Report pdf ]                                           (https
 #### 3.1	  Test plan
 The plan identifies the items to be tested, the features to be tested, the type of testing to be performed, the roles and responsibilities for the testing process, the resources and schedule required to complete testing and the risks associated with the plan. 
 
-Project Test Plan [ Project Test Plan pdf ]                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%202_ORANGE%20HRM.pdf)
+Project Test Plan [Project Test Plan pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20plan%202_ORANGE%20HRM.pdf)
 
 
 
@@ -185,7 +185,7 @@ Project Test Plan [ Project Test Plan pdf ]                                (http
 #### 3.2	  Test conditions
 
 
-![ Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
+![Conditions 1 !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Conditii.JPG)
 
 The following 28 tests were created based on the test conditions.
 
@@ -193,10 +193,10 @@ The following 28 tests were created based on the test conditions.
 
 Test cases were done in the execution phase and exported as pdf, from Jira as attached: 
 
-Example [ Test Cases 1 ]                                                   (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
+Example [Test Cases 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Cases%201.JPG)
 
 
-Test Cases [ Test Cases pdf ]                                              (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+Test Cases [Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 
@@ -204,21 +204,21 @@ Test Cases [ Test Cases pdf ]                                              (http
 
 Attached the daily test report:
 
-Example [ Summary report ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
+Example [Summary report](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
 
 
 #### 3.5	  Traceability matrix
 
 Below the Traceability matrix attched in the form of jpg and pdf.format:
 
-![ Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
+![Matrix !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/MATRICE.JPG)
 
-Traceability Matrix [ Traceability Matrix pdf ]                             (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
+Traceability Matrix [Traceability Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Forward%20Traceability_1_11_2023.pdf)
 
-Matrix [ Matrix pdf ]                                                       (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
+Matrix [Matrix pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Traceability%20Report%20(Recursive)%20(Jira)%20(3).pdf)
 
 
-Gant Chart [ Gantt Chart pdf ]                                               (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
+Gant Chart [Gantt Chart pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Gantt%20Chart%20(Jira).pdf)
 
 
 #### 3.6	  Test case results
@@ -227,23 +227,25 @@ The test cases results:
 -pdf exported from Jira with all test cases and results
 
 
-Test Cases [ Test Cases pdf ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
+Test Cases [Test Cases pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-6%20(4)-combined.pdf)
 
 
 #### 3.7	  Bugs report
 
-Bug Report [ Bug c ]                                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
+Bug Report [Bug c](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Report%20Bug.png)
 
-Bug [ Bug pdf ]                                                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+Bug [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+
+Severity - Moderate, Priority – Low. 
 
 
 #### 3.8	  Test completion report
 The test completion report generated from Jira:
 
--pdf exported from Jira with test completion report
+- A pdf was exported from Jira with test completion report
 
 
-Test Report [ Test Report pdf ]                                                (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
+Test Report [Test Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
 
 
 #### 3.9	  Schedule
