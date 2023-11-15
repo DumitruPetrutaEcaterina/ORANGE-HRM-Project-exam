@@ -177,11 +177,11 @@ Project Test Plan [ Project Test Plan pdf ]                                (http
 
 Epic [ Epic pdf ]                                                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
-Story 1 [ Story 1 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
+- Story 1 [ Story 1 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
 
-Story 2 [ Story 2 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
+- Story 2 [ Story 2 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-24.pdf)
 
-Story 3 [ Story 3 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
+- Story 3 [ Story 3 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
 
 #### 3.2	  Test conditions
