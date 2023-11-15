@@ -224,7 +224,6 @@ To show the time line a Gantt Chart was done:
 
 
 #### 3.6	  Test case results
-The test cases results:
 
 All test cases and results were exported from Jira as pdf format:
 
