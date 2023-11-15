@@ -142,6 +142,8 @@ Verify if the following elements are ready before test execution:
   
  [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
+ -	Also, Story's were executed during this phase: 
+
 Epic: [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
 -  [Story 1 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
@@ -150,7 +152,7 @@ Epic: [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-e
 
 -  [Story 3 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
--	Bug has been created based on the failed test case. The complete bug reports can be found here:
+-	Bug has been created based on the failed test case. The complete bug report can be found here:
 
  [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
