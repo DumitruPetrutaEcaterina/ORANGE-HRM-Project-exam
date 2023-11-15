@@ -139,6 +139,7 @@ Verify if the following elements are ready before test execution:
 
 #### 2.5 Test execution
 -	Test cases are executed on the created cycle summary 
+Test Execution [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
 
 Epic [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
@@ -148,11 +149,9 @@ Epic [Epic pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-ex
 
 - Story 3 [Story 3 pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-4%20(1).pdf)
 
-Test Execution [Test Execution](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Test%20Execution.png)
-
 -	Bugs have been created based on the failed test cases. The complete bug reports can be found here:
 
-Bug [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
+ [Bug pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-41.pdf)
 
 
 #### 2.6 Test closure
@@ -166,7 +165,7 @@ Various periodic reports were generated to reflect the current status of the tes
 
 ![Monitoring !](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Daily%20Test%20Monitoring.jpg)
 
-Time Report [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
+ [Time Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Time%20by%20Status%20Report%20(1).pdf)
 
 
 
