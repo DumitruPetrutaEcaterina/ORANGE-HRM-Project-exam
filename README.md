@@ -140,8 +140,6 @@ Verify if the following elements are ready before test execution:
 #### 2.5 Test execution
 -	Test cases are executed on the created cycle summary 
 
-
-
 Epic [ Epic pdf ]                                                          (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-3%20(2).pdf)
 
 - Story 1 [ Story 1 pdf ]                                                    (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-5%20(1).pdf)
