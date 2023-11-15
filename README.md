@@ -79,7 +79,7 @@ Tools: Jira
 -	The below user story was created in Jira and describes functional specifications of the Time module.
 
 #### User Story:
-Example User Story [User Story 1] (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
+Example User Story [User Story 1](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/User%20Story%201a.png)
 
 
 #### 1.3 Functionalities and tests out of scope
@@ -125,7 +125,7 @@ Example User Story [User Story 1] (https://github.com/DumitruPetrutaEcaterina/OR
 -  Test cases will be created in Jira,
 -	Black Box test cases will be created in Jira, like boundary value testing test cases.
   
-   Example [ Boundary Value Test Case pdf ]                                           (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-21.pdf)
+   Example [Boundary Value Test Case pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/OP-21.pdf)
 
 #### 2.4 Test implementation
 
@@ -202,7 +202,7 @@ Test Cases [ Test Cases pdf ]                                              (http
 
 #### 3.4	  Daily test summary report 
 
-Attached the dayly test report:
+Attached the daily test report:
 
 Example [ Summary report ]                                                 (https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Summary%20report.jpg)
 
