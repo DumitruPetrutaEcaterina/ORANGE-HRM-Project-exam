@@ -248,10 +248,7 @@ Severity - Moderate, Priority – Low.
 #### 3.8	  Test completion report
 The test completion report generated from Jira:
 
-- A pdf was exported from Jira with test completion report
-
-
-Test Report [Test Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
+- A pdf was exported from Jira [Test Report pdf](https://github.com/DumitruPetrutaEcaterina/ORANGE-HRM-Project-exam/blob/main/Zephyr%20Test%20Steps%20%2B%20Executions%20%2B%20Results%20(Jira)%20(2).pdf)
 
 
 #### 3.9	  Schedule
